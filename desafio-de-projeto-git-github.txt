@@ -1,0 +1,7 @@
+Nesse repositório estarei disponibilizando alguns links de projetos, feitos por mim. Espero que goste. 
+
+Link de um exercício simples, com várias questões, como somar 2 valores: https://marcos1383.github.io/exercicio09/exercicio09
+
+Link de exercícios aonde comecei a ter contato com o CSS: https://marcos1383.github.io/exercicio10/exercicio10
+
+Link de um projeto feito para calcular a média de consumo de gasolina de veiculos: https://marcos1383.github.io/atividade02/atividade02
